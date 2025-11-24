@@ -1,0 +1,25 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="لوگوی سایه‌بون">
+  <defs>
+    <linearGradient id="umbrellaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#56f0a7" />
+      <stop offset="100%" stop-color="#2bb671" />
+    </linearGradient>
+    <linearGradient id="arrowGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8df7ff" />
+      <stop offset="100%" stop-color="#38d1b7" />
+    </linearGradient>
+  </defs>
+  <g stroke="#0c4273" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M26 80c0-30 24-54 54-54s54 24 54 54H26z" fill="url(#umbrellaGradient)" />
+    <line x1="80" y1="80" x2="80" y2="120" />
+    <path d="M80 120v20" />
+  </g>
+  <path d="M80 118c-13 0-24 11-24 24s11 18 24 18 24-5 24-18-11-24-24-24z" fill="#1b90fa" />
+  <path d="M80 118c-8.5 0-15 6.5-15 15v7c0 5.523 6.716 10 15 10s15-4.477 15-10v-7c0-8.5-6.5-15-15-15z" fill="#0f6cb8" />
+  <rect x="72" y="78" width="16" height="10" rx="5" fill="#0c4273" />
+  <g fill="url(#arrowGradient)">
+    <path d="M24 96l28-28v16h20v24H52v16z" />
+    <path d="M136 96l-28-28v16H88v24h20v16z" />
+  </g>
+</svg>
+
